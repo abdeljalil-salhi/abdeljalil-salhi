@@ -1,3 +1,3 @@
-### Hi everyone 👋
+### Hello World! 👋
 
-![image](https://img.shields.io/discord/711891284331069471?label=myServer&logo=discord&logoColor=white)
+![image](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif)
