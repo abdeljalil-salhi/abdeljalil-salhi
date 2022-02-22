@@ -3,7 +3,7 @@
 <div>
   <img width="100%" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615839003048/_FW3Jfg7r.gif">
 
-  <div>
+  <div align="center">
     
 <!-- [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/) -->
