@@ -40,17 +40,16 @@ const Abdel = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 44 Contributions in the Year 2022
+> 🏆 7 Contributions in the Year 2022
  > 
-> 📦 160.6 kB Used in GitHub's Storage 
+> 📦 384.6 Kb Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 9 Public Repositories 
  > 
-> 🔑 20 Private Repositories  
+> 🔑 12 Private Repositories  
  > 
-**I'm an Early 🐤** 
 
   </div>
   
