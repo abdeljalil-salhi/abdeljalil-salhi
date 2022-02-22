@@ -1,7 +1,7 @@
 <h2> Hello World, I'm Abdel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <div>
-  <img width="70%" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615839003048/_FW3Jfg7r.gif">
+  <img width="100%" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615839003048/_FW3Jfg7r.gif">
 
   <div>
     
