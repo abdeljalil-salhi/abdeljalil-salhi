@@ -46,9 +46,9 @@ const Abdel = {
  > 
 > 💼 Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
-> 🔑 12 Private Repositories  
+> 🔑 17 Private Repositories  
  > 
 
   </div>
