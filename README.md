@@ -1,9 +1,9 @@
 <h2> Hello World, I'm Abdel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <div>
-  <img align="right" width="40%" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615839003048/_FW3Jfg7r.gif">
+  <img width="50%" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615839003048/_FW3Jfg7r.gif">
 
-  <div align="center">
+  <div>
     
 <!-- [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/) -->
