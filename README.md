@@ -48,7 +48,7 @@ const Abdel = {
  > 
 > 📜 12 Public Repositories 
  > 
-> 🔑 19 Private Repositories  
+> 🔑 7 Private Repositories  
  > 
 
   </div>
