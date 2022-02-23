@@ -21,7 +21,7 @@
 ```javascript
 const Abdel = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, PHP, Python, C, C++],
+  code: [Javascript, Typescript, HTML, SCSS, PHP, SQL, Python, C++],
   tools: [React, Next, Redux, Redis, Node, Socketio, Docker, Tkinter],
   architecture: ["microservices", "event-driven", "design system pattern"],
  challenge: "I am doing the #100DaysOfCode challenge focused on typescript and learning new techs"
