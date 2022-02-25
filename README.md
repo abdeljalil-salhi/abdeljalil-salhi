@@ -40,8 +40,8 @@ const Abdel = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 7 Contributions in the Year 2022
- > 
+<!-- > 🏆 7 Contributions in the Year 2022
+ >  -->
 > 📦 384.6 Kb Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
