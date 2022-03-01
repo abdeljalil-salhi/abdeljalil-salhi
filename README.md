@@ -36,28 +36,82 @@ const Abdel = {
 
 <div style="display:flex;align-items:center;justify-content:center">
   
-  <div>
+<!--   <div>
 
 **🐱 My GitHub Data** 
 
-<!-- > 🏆 7 Contributions in the Year 2022
- >  -->
+> 🏆 7 Contributions in the Year 2022
+ > 
 > 📦 384.6 Kb Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 16 Public Repositories 
  > 
-> 🔑 7 Private Repositories  
+> 🔑 9 Private Repositories  
  > 
 
-  </div>
+  </div> -->
   
-  <div>
+  <p align="center">
+    <a href="https://github.com/abdeljalil-salhi">
+      <img
+        align="center"
+        height="200em"
+        src="https://github-readme-stats.vercel.app/api?username=abdeljalil-salhi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      />
+    </a>
+    <a href="https://github.com/abdeljalil-salhi">
+      <img
+        align="center"
+        height="200em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeljalil-salhi&show_icons=true&langs_count=8&count_private=true&layout=compact&theme=tokyonight"
+      />
+    </a>
+  </p>
   
+  <p align="center">
+    <a href="https://github.com/seu-usuario">
+      <img
+        align="center"
+        src="https://github-profile-trophy.vercel.app/?username=abdeljalil-salhi&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+      />
+    </a>
+  </a>
+  </p>
+  
+<!--   <div>
+  
+[![card](https://github-readme-stats.vercel.app/api?username=abdeljalil-salhi&theme=tokyonight&show_icons=true)](https://github.com/abdeljalil-salhi/)
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdeljalil-salhi&layout=compact&langs_count=8&theme=tokyonight)
     
-  </div>
+  </div> -->
+  
+  <h3 align="center">Latest project I've been working on is</h3>
+
+  <p align="center">
+    <a href="https://github.com/abdeljalil-salhi/LumiaShop">
+      <img
+        align="center"
+        height="120em"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=abdeljalil-salhi&repo=LumiaShop&theme=tokyonight">
+      </img>
+    </a>
+<!--     <a href="https://github.com/abdeljalil-salhi/MyChat">
+      <img
+        align="center"
+        height="120em"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=abdeljalil-salhi&repo=MyChat&theme=tokyonight">
+      </img>
+    </a>
+    <a href="https://github.com/abdeljalil-salhi/infoGather">
+      <img
+        align="center"
+        height="120em"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=abdeljalil-salhi&repo=infoGather&theme=tokyonight">
+      </img>
+    </a> -->
+  </p>
   
 </div>
   
