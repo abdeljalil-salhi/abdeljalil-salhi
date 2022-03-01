@@ -57,14 +57,14 @@ const Abdel = {
     <a href="https://github.com/abdeljalil-salhi">
       <img
         align="center"
-        height="200em"
+        height="150em"
         src="https://github-readme-stats.vercel.app/api?username=abdeljalil-salhi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
       />
     </a>
     <a href="https://github.com/abdeljalil-salhi">
       <img
         align="center"
-        height="200em"
+        height="150em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeljalil-salhi&show_icons=true&langs_count=8&count_private=true&layout=compact&theme=tokyonight"
       />
     </a>
