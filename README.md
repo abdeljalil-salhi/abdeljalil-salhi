@@ -71,10 +71,10 @@ const Abdel = {
   </p>
   
   <p align="center">
-    <a href="https://github.com/seu-usuario">
+    <a href="https://github.com/abdeljalil-salhi">
       <img
         align="center"
-        src="https://github-profile-trophy.vercel.app/?username=abdeljalil-salhi&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+        src="https://github-profile-trophy.vercel.app/?username=abdeljalil-salhi&theme=onedark&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A&&margin-w=20&no-bg=true"
       />
     </a>
   </a>
@@ -90,11 +90,11 @@ const Abdel = {
   <h3 align="center">Latest project I've been working on is</h3>
 
   <p align="center">
-    <a href="https://github.com/abdeljalil-salhi/LumiaShop">
+    <a href="https://github.com/abdeljalil-salhi/MyMedia">
       <img
         align="center"
         height="120em"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=abdeljalil-salhi&repo=LumiaShop&theme=tokyonight">
+        src="https://github-readme-stats.vercel.app/api/pin/?username=abdeljalil-salhi&repo=MyMedia&theme=tokyonight">
       </img>
     </a>
 <!--     <a href="https://github.com/abdeljalil-salhi/MyChat">
