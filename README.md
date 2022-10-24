@@ -12,7 +12,7 @@
     
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdeljalil-salhi&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF8964&ring=FFCB2B)](https://git.io/streak-stats)
 
-[![absalhi's 42 stats](https://badge42.vercel.app/api/v2/cl9iseqxd00640gl9mg4g0mxp/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+[![absalhi's 42 stats](https://badge42.vercel.app/api/v2/cl9iseqxd00640gl9mg4g0mxp/stats?cursusId=21&coalitionId=78)](https://github.com/JaeSeoKim/badge42)
 
   </div>
 </div>
