@@ -117,7 +117,7 @@ export const Player = ({
 				background: rgba(224.4, 237.66000000000003, 101.745, .7);
 				height: 10px;
 				margin: 2px 0;
-				width: 50px;
+				width: 70px;
 			}
 
             #cover:not([src]) {
@@ -205,7 +205,7 @@ export const Player = ({
             padding: ".6rem",
             paddingTop: 8,
             paddingLeft: 4,
-            minWidth: 300,
+            minWidth: 250,
           },
         },
         React.createElement("img", {
