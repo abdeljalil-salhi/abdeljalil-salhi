@@ -1,7 +1,7 @@
 import { renderToString } from "react-dom/server.js";
 import { decode } from "querystring";
-import { Player } from "../components/NowPlaying";
-import { nowPlaying } from "../utils/spotify";
+import { Player } from "../components/NowPlaying.jsx";
+import { nowPlaying } from "../utils/spotify.js";
 
 export default async function (req, res) {
   const {
