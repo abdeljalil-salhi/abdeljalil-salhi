@@ -11,7 +11,7 @@ export const Player = ({
 }) => {
   return React.createElement(
     ReadmeImg,
-    { width: "466", height: "125" },
+    { width: "466", height: "85" },
     React.createElement(
       "style",
       null,
