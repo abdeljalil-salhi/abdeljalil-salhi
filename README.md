@@ -4,8 +4,8 @@
 <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQzMjBmODBmZTI1NmRhZDIxMGQ0MTgyOTY2MWY4NWNjZDBjMzk0YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif">
 
 <p align="center">
-  <a href="https://open.spotify.com/track/6YWjskKykdPsBuiTBOg1VK">
-    <img src="https://raw.githubusercontent.com/abdeljalil-salhi/abdeljalil-salhi/master/static/current-favorite.svg">
+  <a href="https://abdeljalil-salhi.vercel.app/now-playing?open">
+    <img src="https://abdeljalil-salhi.vercel.app/now-playing" alt="Now Playing on Spotify..." />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 [![absalhi's 42 stats](https://badge42.vercel.app/api/v2/cl9iseqxd00640gl9mg4g0mxp/stats?cursusId=21&coalitionId=78)](https://github.com/JaeSeoKim/badge42)
 </div> -->
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const Abdel = {
@@ -21,7 +21,8 @@ const Abdel = {
   code: [Javascript, Typescript, HTML, SCSS, PHP, SQL, Python, C, Swift, C++],
   tools: [React, Next, Redux, Redis, Node, Socketio, Docker, Tkinter],
   architecture: ["microservices", "event-driven", "design system pattern"],
- challenge: "I am doing the #100DaysOfCode challenge focused on C and learning new concepts"
+  challenge:
+    "I am doing the #100DaysOfCode challenge focused on C and learning new concepts",
 };
 ```
 
@@ -29,18 +30,17 @@ const Abdel = {
   
 <!--   <div>
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 7 Contributions in the Year 2022
- > 
-> 📦 384.6 Kb Used in GitHub's Storage 
- > 
+>
+> 📦 384.6 Kb Used in GitHub's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
+>
+> 📜 16 Public Repositories
+>
+> 🔑 9 Private Repositories
 
   </div> -->
   
