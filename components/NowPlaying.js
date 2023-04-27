@@ -1,7 +1,6 @@
 import React from "react";
-import ReadmeImg from "./ReadmeImg";
-import Text from "./Text";
-
+import ReadmeImg from "./ReadmeImg.js";
+import Text from "./Text.js";
 export const Player = ({
   cover,
   track,
@@ -10,10 +9,13 @@ export const Player = ({
   duration,
   isPlaying,
 }) => {
-  return (
-    <ReadmeImg width="256" height="64">
-      <style>
-        {`
+  return React.createElement(
+    ReadmeImg,
+    { width: "256", height: "64" },
+    React.createElement(
+      "style",
+      null,
+      `
             .paused { 
               animation-play-state: paused !important;
               background: #e1e4e8 !important;
@@ -114,40 +116,56 @@ export const Player = ({
                 transform: scaleX(1)
               }
             }
-        `}
-      </style>
-      <div
-        className={isPlaying ? "disabled" : ""}
-        style={{
+        `
+    ),
+    React.createElement(
+      "div",
+      {
+        className: isPlaying ? "disabled" : "",
+        style: {
           display: "flex",
           alignItems: "center",
           paddingTop: 8,
           paddingLeft: 4,
-        }}
-      >
-        <img id="cover" src={cover ?? null} width="48" height="48" />
-        <div
-          style={{
+        },
+      },
+      React.createElement("img", {
+        id: "cover",
+        src: cover !== null && cover !== void 0 ? cover : null,
+        width: "48",
+        height: "48",
+      }),
+      React.createElement(
+        "div",
+        {
+          style: {
             display: "flex",
             flex: 1,
             flexDirection: "column",
             marginTop: -4,
             marginLeft: 8,
-          }}
-        >
-          <Text id="track" weight="bold">
-            {`${track ?? ""} `.trim()}
-          </Text>
-          <Text id="artist" color={!track ? "gray" : undefined}>
-            {artist || "Nothing playing..."}
-          </Text>
-          {track && (
-            <div className="progress-bar">
-              <div id="progress" className={!isPlaying ? "paused" : ""} />
-            </div>
-          )}
-        </div>
-      </div>
-    </ReadmeImg>
+          },
+        },
+        React.createElement(
+          Text,
+          { id: "track", weight: "bold" },
+          `${track !== null && track !== void 0 ? track : ""} `.trim()
+        ),
+        React.createElement(
+          Text,
+          { id: "artist", color: !track ? "gray" : undefined },
+          artist || "Nothing playing..."
+        ),
+        track &&
+          React.createElement(
+            "div",
+            { className: "progress-bar" },
+            React.createElement("div", {
+              id: "progress",
+              className: !isPlaying ? "paused" : "",
+            })
+          )
+      )
+    )
   );
 };
