@@ -1,16 +1,17 @@
-<h2> Hello World, I'm Abdel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Abdel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
+<br />
 
-<div>
-  <img width="100%" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615839003048/_FW3Jfg7r.gif">
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQzMjBmODBmZTI1NmRhZDIxMGQ0MTgyOTY2MWY4NWNjZDBjMzk0YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif">
 
-  <div align="center">
-    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdeljalil-salhi&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF8964&ring=FFCB2B)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://open.spotify.com/track/6YWjskKykdPsBuiTBOg1VK">
+    <img src="https://raw.githubusercontent.com/abdeljalil-salhi/abdeljalil-salhi/master/static/current-favorite.svg">
+  </a>
+</p>
 
+<!-- <div align="center">
 [![absalhi's 42 stats](https://badge42.vercel.app/api/v2/cl9iseqxd00640gl9mg4g0mxp/stats?cursusId=21&coalitionId=78)](https://github.com/JaeSeoKim/badge42)
-
-  </div>
-</div>
+</div> -->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
