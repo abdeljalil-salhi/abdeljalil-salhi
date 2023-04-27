@@ -1,9 +1,9 @@
-// import { renderToString } from "react-dom/server.js";
 import pkg from "react-dom/server.js";
 const { renderToString } = pkg;
 import { decode } from "querystring";
 import { nowPlaying } from "../utils/spotify.js";
 import { Player } from "../components/NowPlaying.js";
+
 export default async function (req, res) {
   var _a;
   const {
