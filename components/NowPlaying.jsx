@@ -2,16 +2,7 @@ import React from "react";
 import ReadmeImg from "./ReadmeImg";
 import Text from "./Text";
 
-export interface Props {
-  cover?: string;
-  track: string;
-  artist: string;
-  progress: number;
-  duration: number;
-  isPlaying: boolean;
-}
-
-export const Player: React.FC<Props> = ({
+export const Player = ({
   cover,
   track,
   artist,

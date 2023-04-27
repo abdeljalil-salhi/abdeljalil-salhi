@@ -1,5 +1,3 @@
-/* eslint-disable @typescript-eslint/no-var-requires */
-/* eslint-disable @typescript-eslint/camelcase */
 const dotenv = require("dotenv");
 const fs = require("fs");
 const fetch = require("node-fetch");

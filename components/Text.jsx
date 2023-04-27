@@ -23,7 +23,7 @@ const weights = {
   bold: 600,
 };
 
-const Text: React.FC<any> = ({
+const Text = ({
   children = "",
   weight = "default",
   family = "default",

@@ -1,17 +1,16 @@
-import { VercelRequest, VercelResponse } from "@vercel/node";
-import { renderToString } from "react-dom/server";
+import { renderToString } from "react-dom/server.js";
 import { decode } from "querystring";
 import { Player } from "../components/NowPlaying";
 import { nowPlaying } from "../utils/spotify";
 
-export default async function (req: VercelRequest, res: VercelResponse) {
+export default async function (req, res) {
   const {
     item = {},
     is_playing: isPlaying = false,
     progress_ms: progress = 0,
   } = await nowPlaying();
 
-  const params = decode(req.url.split("?")[1]) as any;
+  const params = decode(req.url.split("?")[1]);
 
   if (params && typeof params.open !== "undefined") {
     if (item && item.external_urls) {
