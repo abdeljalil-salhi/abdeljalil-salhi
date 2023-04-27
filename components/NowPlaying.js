@@ -21,6 +21,10 @@ export const Player = ({
 				justify-content: center;
 				mix-blend-mode: difference;
 			}
+
+			#title {
+				text-align: center;
+			}
 			
             .paused { 
 				animation-play-state: paused !important;
@@ -41,10 +45,12 @@ export const Player = ({
             }
 
             .progress-bar {
+				animation-delay: 550ms;
 				position: relative;
 				width: 100%;
 				height: 4px;
 				margin: -1px;
+  				margin-top: 4px;
 				border: 1px solid #e1e4e8;
 				border-radius: 4px;
 				overflow: hidden;
@@ -67,7 +73,8 @@ export const Player = ({
             .progress-bar,
             #track,
             #artist,
-            #cover {
+            #cover,
+			#title {
 				opacity: 0;
 				animation: appear 300ms ease-out forwards;
             }
@@ -156,7 +163,7 @@ export const Player = ({
 					width: 90%;
 				}
 				100% {
-				  width: 25%;
+				  	width: 25%;
 				}
 			}
         `
@@ -191,6 +198,11 @@ export const Player = ({
           style: {
             display: "flex",
             alignItems: "center",
+            background: "rgb(255,255,255,.6)",
+            border: "1px solid rgba(125, 125, 125, .3)",
+            borderRadius: ".3rem",
+            margin: ".5rem 0",
+            padding: ".6rem",
             paddingTop: 8,
             paddingLeft: 4,
           },
