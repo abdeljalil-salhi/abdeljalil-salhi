@@ -205,6 +205,7 @@ export const Player = ({
             padding: ".6rem",
             paddingTop: 8,
             paddingLeft: 4,
+            minWidth: 300,
           },
         },
         React.createElement("img", {
