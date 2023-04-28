@@ -175,6 +175,7 @@ export const Player = ({
         className: "now-playing-wrapper",
       },
       !artist ||
+        !isPlaying ||
         React.createElement(
           "div",
           {
@@ -249,6 +250,7 @@ export const Player = ({
         )
       ),
       !artist ||
+        !isPlaying ||
         React.createElement(
           "div",
           {
