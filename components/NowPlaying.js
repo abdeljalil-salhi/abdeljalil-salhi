@@ -1,6 +1,7 @@
 import React from "react";
 import ReadmeImg from "./ReadmeImg.js";
 import Text from "./Text.js";
+
 export const Player = ({
   cover,
   track,
@@ -173,24 +174,25 @@ export const Player = ({
       {
         className: "now-playing-wrapper",
       },
-      React.createElement(
-        "div",
-        {
-          className: "bar-container left",
-        },
-        React.createElement("div", {
-          className: "bar",
-          style: { "--offset": 0 },
-        }),
-        React.createElement("div", {
-          className: "bar",
-          style: { "--offset": 1 },
-        }),
-        React.createElement("div", {
-          className: "bar",
-          style: { "--offset": 2 },
-        })
-      ),
+      artist ||
+        React.createElement(
+          "div",
+          {
+            className: "bar-container left",
+          },
+          React.createElement("div", {
+            className: "bar",
+            style: { "--offset": 0 },
+          }),
+          React.createElement("div", {
+            className: "bar",
+            style: { "--offset": 1 },
+          }),
+          React.createElement("div", {
+            className: "bar",
+            style: { "--offset": 2 },
+          })
+        ),
       React.createElement(
         "div",
         {
@@ -246,24 +248,25 @@ export const Player = ({
             )
         )
       ),
-      React.createElement(
-        "div",
-        {
-          className: "bar-container right",
-        },
-        React.createElement("div", {
-          className: "bar",
-          style: { "--offset": 0 },
-        }),
-        React.createElement("div", {
-          className: "bar",
-          style: { "--offset": 1 },
-        }),
-        React.createElement("div", {
-          className: "bar",
-          style: { "--offset": 2 },
-        })
-      )
+      artist ||
+        React.createElement(
+          "div",
+          {
+            className: "bar-container right",
+          },
+          React.createElement("div", {
+            className: "bar",
+            style: { "--offset": 0 },
+          }),
+          React.createElement("div", {
+            className: "bar",
+            style: { "--offset": 1 },
+          }),
+          React.createElement("div", {
+            className: "bar",
+            style: { "--offset": 2 },
+          })
+        )
     )
   );
 };

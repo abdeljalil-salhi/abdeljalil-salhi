@@ -1,6 +1,7 @@
 .vercel
 .env
 node_modules/
+ts/
 api/*.ts
 components/*.tsx
 utils/*.ts
