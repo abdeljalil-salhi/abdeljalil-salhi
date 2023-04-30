@@ -35,9 +35,12 @@
 </a>
 <br />
 
+<p align="left">
 A passionate full stack developer from Morocco 🇲🇦, with a love for learning and sharing knowledge. I'm a student at 1337 school in UM6P Benguerir, and I'm currently working on a few projects.
-<br />
+</p>
+<p align="left">
 <b>Interested in what I've been working on recently?</b> Feel free to check out my github repos.
+</p>
 
 <br />
 
