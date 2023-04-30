@@ -34,6 +34,7 @@
   <img align="left" alt="Abdel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
+<br />
 
 <p align="left">
 A passionate full stack developer from Morocco 🇲🇦, with a love for learning and sharing knowledge. I'm a student at 1337 school in UM6P Benguerir, and I'm currently working on a few projects.
