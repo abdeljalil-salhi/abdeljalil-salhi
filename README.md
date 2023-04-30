@@ -40,7 +40,6 @@ A passionate full stack developer from Morocco 🇲🇦, with a love for learnin
 <b>Interested in what I've been working on recently?</b> Feel free to check out my github repos.
 
 <br />
-<br />
 
 ```javascript
 const Abdel = {
