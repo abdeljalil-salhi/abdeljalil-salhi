@@ -1,17 +1,19 @@
-<p align="right">
+<p align="center">
+	<h1> Hi, I'm Abdel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /></h1>
+</p>
+
+<p align="center">
   <a href="https://abdeljalil-salhi.vercel.app/now-playing?open">
     <img src="https://abdeljalil-salhi.vercel.app/now-playing" alt="Now Playing on Spotify..." />
   </a>
 </p>
 
-<p align="center">
-	<h1> Hi, I'm Abdel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /></h1>
-</p>
-
 <!-- <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQzMjBmODBmZTI1NmRhZDIxMGQ0MTgyOTY2MWY4NWNjZDBjMzk0YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif"> -->
 
 <!-- <div align="center">
+
 [![absalhi's 42 stats](https://badge42.vercel.app/api/v2/cl9iseqxd00640gl9mg4g0mxp/stats?cursusId=21&coalitionId=78)](https://github.com/JaeSeoKim/badge42)
+
 </div> -->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -36,6 +38,7 @@
 A passionate full stack developer from Morocco 🇲🇦, with a love for learning and sharing knowledge. I'm a student at 1337 school in UM6P Benguerir, and I'm currently working on a few projects.
 Interested in what I've been working on recently? Feel free to check out my github repos.
 
+<br />
 <br />
 
 ```javascript
