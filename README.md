@@ -43,8 +43,6 @@ A passionate full stack developer from Morocco 🇲🇦, with a love for learnin
 <b>Interested in what I've been working on recently?</b> Feel free to check out my github repos.
 </p>
 
-<br />
-
 ```javascript
 const Abdel = {
   pronouns: "he" | "him",
