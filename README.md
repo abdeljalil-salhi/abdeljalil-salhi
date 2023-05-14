@@ -6,6 +6,7 @@
   <a href="https://abdeljalil-salhi.vercel.app/now-playing?open">
     <img src="https://abdeljalil-salhi.vercel.app/now-playing" alt="Now Playing on Spotify..." />
   </a>
+  <img src="https://github.com/abdeljalil-salhi/abdeljalil-salhi/assets/65598953/3ee220c7-f96b-41e9-ba5e-d018d8afb3d2" height="85" />
 </p>
 
 <!-- <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQzMjBmODBmZTI1NmRhZDIxMGQ0MTgyOTY2MWY4NWNjZDBjMzk0YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif"> -->
