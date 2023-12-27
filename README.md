@@ -40,7 +40,7 @@
         "
       />
       <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg"
         width="32"
         height="32"
       />
@@ -65,7 +65,7 @@
         "
       />
       <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
         width="32"
         height="32"
       />
@@ -90,7 +90,7 @@
         "
       />
       <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg"
         width="32"
         height="32"
       />
@@ -115,7 +115,7 @@
         "
       />
       <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg"
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg"
         width="32"
         height="32"
       />
@@ -156,7 +156,7 @@
         "
       />
       <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg"
         width="32"
         height="32"
       />
