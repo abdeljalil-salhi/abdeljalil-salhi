@@ -46,26 +46,21 @@
       />
     </picture>
   </a>
-  <a
-    href="https://www.github.com/abdejalil-salhi"
+    <a
+    href="http://www.instagram.com/abdel.codes"
     target="_blank"
     rel="noreferrer"
   >
     <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg
-        "
-      />
+      <source media="(prefers-color-scheme: dark)" srcset="static/icons/socials/instagram.png" />
       <source
         media="(prefers-color-scheme: light)"
         srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg
+          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg
         "
       />
       <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg"
         width="32"
         height="32"
       />
