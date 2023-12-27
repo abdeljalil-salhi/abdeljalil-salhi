@@ -301,7 +301,7 @@ const Abdel = {
       alt="React" /></a
   ><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"
     ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg"
       width="36"
       height="36"
       alt="NextJs" /></a
@@ -367,7 +367,7 @@ const Abdel = {
       alt="NodeJS" /></a
   ><a href="https://expressjs.com/" target="_blank" rel="noreferrer"
     ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg"
       width="36"
       height="36"
       alt="Express" /></a
@@ -439,7 +439,7 @@ const Abdel = {
       alt="Linux" /></a
   ><a href="https://apple.com" target="_blank" rel="noreferrer"
     ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos.svg"
       width="36"
       height="36"
       alt="MacOS" /></a
