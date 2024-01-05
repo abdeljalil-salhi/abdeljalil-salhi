@@ -27,7 +27,7 @@
     "*.{js,css,md}": "prettier --write"
   },
   "dependencies": {
-    "faunadb": "^2.14.2",
+    "faunadb": "^4.8.0",
     "isomorphic-unfetch": "^4.0.2",
     "querystring": "^0.2.0",
     "react": "^16.13.1",
