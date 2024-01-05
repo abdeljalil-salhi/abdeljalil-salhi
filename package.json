@@ -41,6 +41,6 @@
     "@vercel/node": "^1.7.2",
     "husky": "^4.2.5",
     "lint-staged": "^15.2.0",
-    "prettier": "^2.0.5"
+    "prettier": "^3.1.1"
   }
 }
