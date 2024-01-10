@@ -1,5 +1,4 @@
-import pkg from "react-dom/server.js";
-const { renderToString } = pkg;
+import { renderToString } from "react-dom/server";
 import { decode } from "querystring";
 import { nowPlaying } from "../utils/spotify.js";
 import { Player } from "../components/NowPlaying.js";
